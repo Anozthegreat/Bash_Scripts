@@ -1,4 +1,4 @@
-# My_Bash_Scripts
+# My Bash Scripts
 This is the repository containing all my bash scripts that I have made.
 All scripts have appropriate echo statements for clear readability in CLI.
 
