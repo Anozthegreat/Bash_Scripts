@@ -1,6 +1,6 @@
 # My Bash Scripts
 This is the repository containing some of my bash scripts.
-All scripts have appropriate echo statements for clear readability in CLI.
+All scripts have appropriate echo statements and comments in the script file for clear readability.
 
 All scripts have been created by Anoz the Great.
 
