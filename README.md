@@ -1,4 +1,4 @@
-# My Bash Scripts
+# Bash Scripts
 This is the repository containing some of my bash scripts.
 All scripts have appropriate echo statements and comments in the script file for clear readability.
 
